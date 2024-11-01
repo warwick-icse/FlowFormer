@@ -12,28 +12,21 @@ FlowFormer is a foundational model designed for high-accuracy wind farm wake mod
 
 Explore FlowFormer's capabilities and performance through the following demonstration videos:
 
-- **[Video1: Single-turbine wake prediction with the turbine operating in freestream condition](https://youtu.be/aw0be81Qi9U)**
-  [![Introduction and Overview](https://img.youtube.com/vi/aw0be81Qi9U/0.jpg)](https://youtu.be/aw0be81Qi9U)
+- **[Video 1: Single-turbine wake prediction with the turbine operating in freestream condition](https://youtu.be/aw0be81Qi9U)**  
+  [![Single-turbine wake prediction in freestream](https://img.youtube.com/vi/aw0be81Qi9U/0.jpg)](https://youtu.be/aw0be81Qi9U)
 
-- **[Video2: Single-turbine wake prediction with the turbine operating in the front turbine’s wake](https://youtu.be/SuJkwHZc7EQ)**
-  [![Model Training and Architecture](https://img.youtube.com/vi/SuJkwHZc7EQ/0.jpg)](https://youtu.be/SuJkwHZc7EQ)
+- **[Video 2: Single-turbine wake prediction with the turbine operating in the front turbine’s wake](https://youtu.be/SuJkwHZc7EQ)**  
+  [![Single-turbine wake prediction in front turbine’s wake](https://img.youtube.com/vi/SuJkwHZc7EQ/0.jpg)](https://youtu.be/SuJkwHZc7EQ)
 
-- **[Video3: Multiple-turbine wake predictionsn](https://youtu.be/XL49GU5TON8)**
-  [![LES Data Integration](https://img.youtube.com/vi/XL49GU5TON8/0.jpg)](https://youtu.be/XL49GU5TON8)
+- **[Video 3: Multiple-turbine wake predictions](https://youtu.be/XL49GU5TON8)**  
+  [![Multiple-turbine wake predictions](https://img.youtube.com/vi/XL49GU5TON8/0.jpg)](https://youtu.be/XL49GU5TON8)
 
-- **[Video4: The yaw effect on single turbine wakes](https://youtu.be/0Q0kEGvoyNg)**
-  [![Performance Analysis](https://img.youtube.com/vi/0Q0kEGvoyNg/0.jpg)](https://youtu.be/0Q0kEGvoyNg)
+- **[Video 4: The yaw effect on single turbine wakes](https://youtu.be/0Q0kEGvoyNg)**  
+  [![Yaw effect on single turbine wakes](https://img.youtube.com/vi/0Q0kEGvoyNg/0.jpg)](https://youtu.be/0Q0kEGvoyNg)
 
-- **[Video5: The multi turbine wakes on a 81-turbine wind farm](https://youtu.be/Cn6NmgQSTKU)**
-  [![Case Studies and Applications](https://img.youtube.com/vi/Cn6NmgQSTKU/0.jpg)](https://youtu.be/Cn6NmgQSTKU)
+- **[Video 5: Multi-turbine wakes on an 81-turbine wind farm](https://youtu.be/Cn6NmgQSTKU)**  
+  [![Multi-turbine wakes on 81-turbine wind farm](https://img.youtube.com/vi/Cn6NmgQSTKU/0.jpg)](https://youtu.be/Cn6NmgQSTKU)
 
 ---
-
-For further information, please refer to our research paper or visit the [FlowFormer Project Page](#).
-
---- 
-
-This README now provides a clear structure, improving readability and making it easier for users to explore specific parts of the FlowFormer model through the demo videos.
-
 
 The code will be available after the paper is accepted.
