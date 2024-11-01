@@ -28,5 +28,3 @@ Explore FlowFormer's capabilities and performance through the following demonstr
   [![Multi-turbine wakes on 81-turbine wind farm](https://img.youtube.com/vi/Cn6NmgQSTKU/0.jpg)](https://youtu.be/Cn6NmgQSTKU)
 
 ---
-
-The code will be available after the paper is accepted.
