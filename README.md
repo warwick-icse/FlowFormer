@@ -1,10 +1,10 @@
 # FlowFormer
 
-**FlowFormer: A Foundational Transformer Model for Full-Flow-Field Wind Farm Wake Modelling using High-Fidelity LES Data**
+[**FlowFormer: A Foundational Transformer Model for Full-Flow-Field Wind Farm Wake Modelling using High-Fidelity LES Data**](https://www.sciencedirect.com/science/article/pii/S0960148125023171)
 
 ---
 
-FlowFormer is a foundational model designed for high-accuracy wind farm wake modelling using high-fidelity Large Eddy Simulation (LES) data. The model is built on advanced transformer architectures, enabling precise flow field predictions essential for optimising wind farm layouts and improving the control strategy, thereby enhancing overall energy efficiency.
+FlowFormer is an attempt towards a foundational model designed for high-accuracy wind farm wake modelling using high-fidelity Large Eddy Simulation (LES) data. The model is built on advanced transformer architectures, enabling precise flow field predictions essential for optimising wind farm layouts and improving the control strategy, thereby enhancing overall energy efficiency.
 
 ---
 
